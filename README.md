@@ -7,6 +7,10 @@ This project focuses on analyzing a large real-estate dataset using an end-to-en
 The project demonstrates practical use of Python, SQL, and Power BI in handling a large dataset and converting raw data into an interactive dashboard for decision-making.
 
 ---
+## Power BI Priview
+
+<img width="1918" height="977" alt="Screenshot 2026-06-24 144102" src="https://github.com/user-attachments/assets/664a2bed-87dc-4004-b94d-a988beef3944" />
+
 
 ## Problem Statement
 
