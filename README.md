@@ -94,6 +94,9 @@ Examples:
 - Bedroom analysis
 
 ---
+### Sql Query Preview
+
+<img width="1912" height="1021" alt="Screenshot 2026-06-25 143614" src="https://github.com/user-attachments/assets/9706805f-a275-4af0-af6d-bc069522260a" />
 
 ### Step 5: Power BI Dashboard
 
